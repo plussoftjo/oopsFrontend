@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "../ops.keystore",
+            "storePassword": "0096200962",
+            "alias": "ops",
+            "password" : "0096200962",
+            "keystoreType": ""
+        },
+        "release": {
+            "keystore": "../ops.keystore",
+            "storePassword": "0096200962",
+            "alias": "ops",
+            "password" : "0096200962",
+            "keystoreType": ""
+        }
+    }
+}
